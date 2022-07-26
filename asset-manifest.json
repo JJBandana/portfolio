@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f205a093.css",
+    "main.js": "/portfolio/static/js/main.0b5aa0ea.js",
+    "static/media/survey-project.jpg": "/portfolio/static/media/survey-project.7009fd948364216e2026.jpg",
+    "static/media/game-project.jpg": "/portfolio/static/media/game-project.df466aac5f4d00ef88b7.jpg",
+    "static/media/logo.png": "/portfolio/static/media/logo.177cf27a3b5d22b8cbd5.png",
+    "static/media/logo-sql.svg": "/portfolio/static/media/logo-sql.0697e026464104aea891.svg",
+    "static/media/logo-sass.svg": "/portfolio/static/media/logo-sass.8aa78a8393470431c803.svg",
+    "static/media/logo-react.svg": "/portfolio/static/media/logo-react.e68b35f4774979ae220b.svg",
+    "static/media/logo-node.svg": "/portfolio/static/media/logo-node.615ffbea9529ca7047ed.svg",
+    "static/media/logo-cplusplus.svg": "/portfolio/static/media/logo-cplusplus.85764760e8087daab71a.svg",
+    "static/media/logo-csharp.svg": "/portfolio/static/media/logo-csharp.150f0019162d8728567a.svg",
+    "static/media/logo-python.svg": "/portfolio/static/media/logo-python.e6d7dc739a91892bbf1f.svg",
+    "static/media/logo-js.svg": "/portfolio/static/media/logo-js.00f3e5cf8bcf4ae623b3.svg",
+    "static/media/logo-unity.svg": "/portfolio/static/media/logo-unity.ffa4e316327bad4b5338.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/logo-css.svg": "/portfolio/static/media/logo-css.4e47c3122b8d2476a02f.svg",
+    "static/media/logo-html.svg": "/portfolio/static/media/logo-html.f318c8b1d5945fa9adc8.svg",
+    "static/media/logo-tailwind.svg": "/portfolio/static/media/logo-tailwind.d22b29a2028c438a0203.svg",
+    "main.f205a093.css.map": "/portfolio/static/css/main.f205a093.css.map",
+    "main.0b5aa0ea.js.map": "/portfolio/static/js/main.0b5aa0ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f205a093.css",
+    "static/js/main.0b5aa0ea.js"
+  ]
+}
