@@ -64,16 +64,16 @@ const Navbar = () => {
         <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
             <ul>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0a66c2]'>
-                    <a className='flex justify-between intems-center w-full text-gray-300 font-semibold' href="/"> LinkedIn <FaLinkedin size={30}/></a>
+                    <a className='flex justify-between intems-center w-full text-gray-300 font-semibold' href="https://linkedin.com/in/jjbriasco" target="_blank"> LinkedIn <FaLinkedin size={30}/></a>
                 </li>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333]'>
-                    <a className='flex justify-between intems-center w-full text-gray-300 font-semibold' href="/"> Github <FaGithub size={30}/></a>
+                    <a className='flex justify-between intems-center w-full text-gray-300 font-semibold' href="https://github.com/JJBandana" target="_blank"> Github <FaGithub size={30}/></a>
                 </li>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#25d366]'>
                     <a className='flex justify-between intems-center w-full text-gray-300 font-semibold' href="/"> Email <HiOutlineMail size={30}/></a>
                 </li>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#c32aa3]'>
-                    <a className='flex justify-between intems-center w-full text-gray- font-semibold' href="/"> Resume <BsFillPersonLinesFill size={30}/></a>
+                    <a className='flex justify-between intems-center w-full text-gray- font-semibold' href="https://drive.google.com/file/d/19qiAY8fzaSQ1lVDU12WNPkeHnSKLDbR4/view?usp=sharing" target="_blank"> Resume <BsFillPersonLinesFill size={30}/></a>
                 </li>
             </ul>
         </div>
