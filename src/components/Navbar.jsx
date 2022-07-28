@@ -70,7 +70,7 @@ const Navbar = () => {
                     <a className='flex justify-between intems-center w-full text-gray-300 font-semibold' href="https://github.com/JJBandana" target="_blank"> Github <FaGithub size={30}/></a>
                 </li>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#25d366]'>
-                    <a className='flex justify-between intems-center w-full text-gray-300 font-semibold' href="/"> Email <HiOutlineMail size={30}/></a>
+                    <a className='flex justify-between intems-center w-full text-gray-300 font-semibold' href="jj.briasco@gmail.com"> Email <HiOutlineMail size={30}/></a>
                 </li>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#c32aa3]'>
                     <a className='flex justify-between intems-center w-full text-gray- font-semibold' href="https://drive.google.com/file/d/19qiAY8fzaSQ1lVDU12WNPkeHnSKLDbR4/view?usp=sharing" target="_blank"> Resume <BsFillPersonLinesFill size={30}/></a>
