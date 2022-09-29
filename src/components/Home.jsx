@@ -10,7 +10,7 @@ const Home = () => {
         <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
             <p className='text-pink-600'>Hi, my name is</p>
             <h1 className='text-4xl sm:text-7xl font-fold text-[#ccd6f6]'>Juan José Briasco</h1>
-            <h2 className='text-4xl sm:text-7xl font-fold text-[#8892b0]'>I'm a Game Designer.</h2>
+            <h2 className='text-4xl sm:text-7xl font-fold text-[#8892b0]'>I'm a Full Stack developer.</h2>
             <p className='text-[#8892b0] py-4 max-w-[700px]'>Game developing is my passion since i am just a kid. Focused on every type of videogame.</p>
             <div>
               <Link to='work' smooth={true} duration={1000}>
